@@ -3,6 +3,6 @@ pandas
 scipy==1.10.0
 matplotlib
 pyserial
-opencv-python==4.7.0.72
+opencv-python==4.8.1.78
 pygame
 websockets
